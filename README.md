@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently working on Identifying complex organic molecules in a proto-planetary disk at the Max Planck Institute for Astronomy.
 
 <!--
 **AbubakarMastour/AbubakarMastour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
